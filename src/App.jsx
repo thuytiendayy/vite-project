@@ -15,6 +15,20 @@ export default function GreenwichPortalClone() {
       address: "9 đường 30, phường Hiệp Bình, Thành phố Hồ Chí Minh",
       avatar: avatar,
     },
+    GBS230349: {
+      name: "Trần Hoàng Phúc Doanh",
+      roll: "GBS230349",
+      balance: "0 VND",
+      major: "Data Engineering",
+      email: "doanhthpgbs230349@fpt.edu.vn",
+      phone: "0974035641",
+      birthdate: "23/06/2005",
+      gender: "Male",
+      address:
+        "557B An Dương Vương ấp Bình Lợi, xã Bình Thành, huyện Lấp Vò, tỉnh Đồng Tháp",
+      avatar:
+        "https://i.imgur.com/JqYeZpZ.png",
+    },
 
     GBS230001: {
       name: "Nguyễn Văn A",
